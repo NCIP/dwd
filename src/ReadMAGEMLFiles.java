@@ -1,3 +1,10 @@
+/*L
+ * Copyright LCCC at University of North Carolina
+ *
+ * Distributed under the OSI-approved BSD 3-Clause License.
+ * See http://ncip.github.com/dwd/LICENSE.txt for details.
+ */
+
 /************************************************************ 
  *	DWD (Distance Weighted Discrimination)
  *	
