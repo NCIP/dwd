@@ -7,6 +7,6 @@ DWD is distributed under the BSD 3-Clause License. Please see the NOTICE and LIC
 You will find more details about DWD in the following links:
 
 
- * Code Repository: https://github.com/NCIP/DWD
- * Documentation  : https://genome.unc.edu/dwd/
+ * [Code Repository](https://github.com/NCIP/DWD)
+ * [Documentation](https://genome.unc.edu/dwd/)
  
